@@ -32,8 +32,8 @@ Walmart's story is far from over. As the retail landscape continues to evolve, t
 * They want to understand if the spending habits differ between male and female customers: Do women spend more on Black Friday than men? (Assume 50 million customers are male and 50 million are female).
 
 ## 📝 Project Report
-- You can access the complete project python file here - [Python]()
-- You can access the complete project in pdf format here - [Report]()
+- You can access the complete project python file here - [Python](https://github.com/KasiMuthuveerappan/Walmart-BlackFridaySale-CaseStudy/blob/main/Analysis%20-%20CLT%20wrt%20CI's/walmart-Analysis.ipynb)
+- You can access the complete project in pdf format here - [Report](https://github.com/KasiMuthuveerappan/Walmart-BlackFridaySale-CaseStudy/tree/main/Analysis%20-%20CLT%20wrt%20CI's)
 
 #### 👀 About Data
 
@@ -56,4 +56,46 @@ The dataset has the following features:
 |Purchase|	Purchase Amount|
 
 -----
+## Outcome:
+### 🧺**Leveraging Conclusions for WALMART**🧺:
 
+- ❇️**Targeted Marketing**
+
+    🔹Boost spending for 0 - 17 age group with attractive incentives and tailored marketing.  
+    
+- ❇️**Customer Segmentation**
+
+    🔹Optimize product selection and pricing for age groups with similar buying behaviors.  
+    
+- ❇️**Premium Services**
+
+    🔹Enhance the shopping experience for high-spending 51 - 55 age group with premium services and tailored loyalty programs.  
+    
+- ❇️**Identifying Differences:**
+
+    🔹`Walmart` can capitalize on the recognized distinctions between male and female customer behaviors.
+    
+    🔹**Tailoring marketing strategies, product offerings, and promotions** based on these differences can enhance customer engagement.
+    
+    🔹By understanding gender-specific preferences, Walmart can create **more targeted and appealing campaigns** for each demographic.
+
+- ❇️**Decision-Making:**
+
+    🔹Decision-makers at Walmart now have valuable insights to inform their strategic decisions.
+    
+    🔹Understanding how gender influences customer choices enables more precise decision-making in areas such as product assortment, pricing strategies, and promotional activities.
+    
+    🔹Informed decision-making ensures that resources are allocated effectively, maximizing the impact of business initiatives.
+
+- ❇️**Operational Adjustments:**
+
+    🔹Operational aspects, such as **inventory management** and **store layout**, can benefit from insights into gender-related patterns.
+    
+    🔹`Walmart` may consider optimizing inventory based on observed preferences, ensuring that popular products are *well-stocked*.
+    
+    🔹Store layouts can be adjusted to enhance the **shopping experience** for both genders, creating a more personalized and enjoyable atmosphere.
+
+
+#### ***In summary, leveraging these conclusions empowers `WALMART` to tailor its approach to different customer segments, make informed decisions grounded in observed behaviors, and optimize operational aspects for a more customer-centric and efficient retail experience. ***`WALMART`*** can strategically implement changes to drive customer engagement, increase sales, and enhance the overall shopping experience.***
+
+------
